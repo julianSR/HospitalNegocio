@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Manifest-Version: 1.0
 
 =======
 Manifest-Version: 1.0
 
 >>>>>>> origin/master
+=======
+Manifest-Version: 1.0
+
+>>>>>>> 8b5d06a... Subo pagina de inicio
