@@ -100,3 +100,6 @@ Temporary Items
 /dist/
 /build/
 >>>>>>> origin/master
+HospitalNegocio/src/conf/persistence.xml
+HospitalNegocio/src/conf/persistence.xml
+*.png
