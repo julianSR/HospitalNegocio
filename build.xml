@@ -7,6 +7,7 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
+<<<<<<< HEAD
 <project name="HospitalNegocio" default="default" basedir="." xmlns:ejbjarproject="http://www.netbeans.org/ns/j2ee-ejbjarproject/3">
     <description>Builds, tests, and runs the project HospitalNegocio.</description>
     <import file="nbproject/build-impl.xml"/>
@@ -75,6 +76,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
+=======
+>>>>>>> 2ef4fc5... re
 <project name="registro" default="default" basedir=".">
     <description>Builds, tests, and runs the project registro.</description>
     <import file="nbproject/build-impl.xml"/>

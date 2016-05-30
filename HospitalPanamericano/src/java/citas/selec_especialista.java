@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package citas;
 
 import java.io.Serializable;
@@ -79,6 +80,8 @@ public class selec_especialista {
     }
 }
 =======
+=======
+>>>>>>> 2ef4fc5... re
 package citas;
 
 import java.io.Serializable;
@@ -152,4 +155,7 @@ public class selec_especialista {
         this.seleccion = seleccion;
     }
 }
+<<<<<<< HEAD
 >>>>>>> a6e1339... Revert "re"
+=======
+>>>>>>> 2ef4fc5... re
